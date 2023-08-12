@@ -1,0 +1,80 @@
+[
+  {
+    "Name": "Star Wars: Episode I - The Phantom Menace (1999)",
+    "Year": "1999",
+    "Rating": "6.5",
+    "Stars": "Ewan McGregor, Liam Neeson, Natalie Portman"
+  },
+  {
+    "Name": "Star Wars: Episode II - Attack of the Clones (2002)",
+    "Year": "2002",
+    "Rating": "6.6",
+    "Stars": "Hayden Christensen, Natalie Portman, Ewan McGregor"
+  },
+  {
+    "Name": "Star Wars: Episode III - Revenge of the Sith (2005)",
+    "Year": "2005",
+    "Rating": "7.6",
+    "Stars": "Hayden Christensen, Natalie Portman, Ewan McGregor"
+  },
+  {
+    "Name": "Star Wars: Episode IV - A New Hope (1977)",
+    "Year": "1977",
+    "Rating": "8.6",
+    "Stars": "Mark Hamill, Harrison Ford, Carrie Fisher"
+  },
+  {
+    "Name": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+    "Year": "1980",
+    "Rating": "8.7",
+    "Stars": "Mark Hamill, Harrison Ford, Carrie Fisher"
+  },
+  {
+    "Name": "Star Wars: Episode VI - Return of the Jedi (1983)",
+    "Year": "1983",
+    "Rating": "8.3",
+    "Stars": "Mark Hamill, Harrison Ford, Carrie Fisher"
+  },
+  {
+    "Name": "Star Wars: Episode VII - The Force Awakens (2015)",
+    "Year": "2015",
+    "Rating": "7.8",
+    "Stars": "Daisy Ridley, John Boyega, Oscar Isaac"
+  },
+  {
+    "Name": "Star Wars: Episode VIII - The Last Jedi (2017)",
+    "Year": "2017",
+    "Rating": "6.9",
+    "Stars": "Daisy Ridley, John Boyega, Mark Hamill"
+  },
+  {
+    "Name": "Star Wars: Episode IX (2019)",
+    "Year": "2019",
+    "Rating": "6.5",
+    "Stars": "Daisy Ridley, John Boyega, Oscar Isaac"
+  },
+  {
+    "Name": "Rogue One: A Star Wars Story (2016)",
+    "Year": "2016",
+    "Rating": "7.4",
+    "Stars": "Not Found"
+  },
+  {
+    "Name": "Solo: A Star Wars Story (2018)",
+    "Year": "2018",
+    "Rating": "6.9",
+    "Stars": "Alden Ehrenreich, Woody Harrelson, Emilia Clarke"
+  },
+  {
+    "Name": "Untitled Boba Fett film",
+    "Year": "Not Found",
+    "Rating": "Not Found",
+    "Stars": "Not Found"
+  },
+  {
+    "Name": "Star Wars: The Clone Wars (2008)",
+    "Year": "2008",
+    "Rating": "8.4",
+    "Stars": "Tom Kane, Dee Bradley Baker, Matt Lanter"
+  }
+]
