@@ -1,5 +1,5 @@
 # Link to the project
-The code can be found here ![here](https://dd-pigeon.github.io/star-wars-movies/)
+The code can be found here [here](https://dd-pigeon.github.io/star-wars-movies/).
 
 # Steps followed to make the project
 
